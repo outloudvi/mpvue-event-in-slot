@@ -1,0 +1,10 @@
+
+.test.data-v-5edc8a43 {
+  height: 60rpx;
+}
+.a1.data-v-5edc8a43 {
+  background: red;
+}
+.a2.data-v-5edc8a43 {
+  background: cadetblue;
+}

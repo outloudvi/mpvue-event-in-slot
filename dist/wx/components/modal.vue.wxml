@@ -1,0 +1,6 @@
+<import src="/components/slots" /><template name="35b7f050">
+  <view class="_div data-v-5edc8a43"><template name="default"></template>
+    <view class="_div data-v-5edc8a43 test a1" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}"> Here is out of slot </view>
+    <view class="_div data-v-5edc8a43 testa a2"><template data="{{...$root[$p], ...$root[$k], $root}}" is="{{$slotdefault || 'default'}}"></template></view>
+  </view>
+</template>

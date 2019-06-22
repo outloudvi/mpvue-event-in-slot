@@ -1,0 +1,4 @@
+<import src="/components/modal.vue.wxml" />
+<template name="data-v-93a01770-default-0">
+  <view bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_div data-v-93a01770"> Here is slot </view>
+</template>
